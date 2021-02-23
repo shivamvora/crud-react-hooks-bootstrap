@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/crud-react-hooks-bootstrap/static/css/main.4d3a6cd8.chunk.css",
+    "main.js": "/crud-react-hooks-bootstrap/static/js/main.e61ed480.chunk.js",
+    "main.js.map": "/crud-react-hooks-bootstrap/static/js/main.e61ed480.chunk.js.map",
+    "runtime-main.js": "/crud-react-hooks-bootstrap/static/js/runtime-main.b3bd330c.js",
+    "runtime-main.js.map": "/crud-react-hooks-bootstrap/static/js/runtime-main.b3bd330c.js.map",
+    "static/css/2.150d169a.chunk.css": "/crud-react-hooks-bootstrap/static/css/2.150d169a.chunk.css",
+    "static/js/2.cf4f973f.chunk.js": "/crud-react-hooks-bootstrap/static/js/2.cf4f973f.chunk.js",
+    "static/js/2.cf4f973f.chunk.js.map": "/crud-react-hooks-bootstrap/static/js/2.cf4f973f.chunk.js.map",
+    "index.html": "/crud-react-hooks-bootstrap/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/crud-react-hooks-bootstrap/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.4d3a6cd8.chunk.css.map": "/crud-react-hooks-bootstrap/static/css/main.4d3a6cd8.chunk.css.map",
+    "static/js/2.cf4f973f.chunk.js.LICENSE.txt": "/crud-react-hooks-bootstrap/static/js/2.cf4f973f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3bd330c.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.cf4f973f.chunk.js",
+    "static/css/main.4d3a6cd8.chunk.css",
+    "static/js/main.e61ed480.chunk.js"
+  ]
+}
